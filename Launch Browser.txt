@@ -1,0 +1,1 @@
+WebAutomation.LaunchChrome.LaunchChrome Url: Url WindowState: WebAutomation.BrowserWindowState.Maximized ClearCache: False ClearCookies: False WaitForPageToLoadTimeout: 60 Timeout: 60 BrowserInstance=> Browser

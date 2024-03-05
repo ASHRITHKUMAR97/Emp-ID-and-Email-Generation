@@ -1,0 +1,6 @@
+Display.InputDialog Title: $'''First Name''' Message: $'''Enter the first name''' InputType: Display.InputType.SingleLine IsTopMost: False UserInput=> First_Name ButtonPressed=> ButtonPressed
+Display.InputDialog Title: $'''Last Name''' Message: $'''Enter the last name''' InputType: Display.InputType.SingleLine IsTopMost: False UserInput=> Last_Name ButtonPressed=> ButtonPressed2
+Display.InputDialog Title: $'''DOB''' Message: $'''Enter the date of birth''' InputType: Display.InputType.SingleLine IsTopMost: False UserInput=> DOB ButtonPressed=> ButtonPressed3
+Display.InputDialog Title: $'''Designation''' Message: $'''Enter the designation''' InputType: Display.InputType.SingleLine IsTopMost: False UserInput=> designation ButtonPressed=> ButtonPressed4
+Display.InputDialog Title: $'''Mobile Number''' Message: $'''Enter the mobile number''' InputType: Display.InputType.SingleLine IsTopMost: False UserInput=> mobile_number ButtonPressed=> ButtonPressed5
+Display.SelectFromListDialog.SelectFromList Title: $'''Gender''' Message: $'''Select the gender''' List: Gender_List IsTopMost: False AllowEmpty: False SelectedItem=> gender SelectedIndex=> SelectedIndex ButtonPressed=> ButtonPressed6
