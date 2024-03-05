@@ -1,2 +1,2 @@
 # Emp-ID-and-Email-Generation
-This code will take the required inputs from the user and Genaerate the Employee ID nad Email ID
+This code will generate the Employee ID nad Email ID based on the inputs given by the users.
